@@ -1,4 +1,4 @@
-# MAFF
+# DanEscAli
 
 CFGS Desenrotllament d'Aplicacions Web
 
@@ -8,3 +8,4 @@ Entorns de Desenrotllament
 
 Programa exemple per activitat de Github amb Python
 
+21:55 | 24/05/2024
